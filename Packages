@@ -1,16 +1,16 @@
 Package: com.hahios.picsarthahios
-Version: 2506
+Version: 2506-1
 Architecture: iphoneos-arm64
-Maintainer: hahios
-Installed-Size: 388
-Depends: firmware (>=7.0)
+Maintainer: hahios <kevinpham250607@gmail.com>
+Installed-Size: 3144
+Depends: mobilesubstrate
 Filename: ./debs/com.hahios.picsarthahios_2506-1_iphoneos-arm64.deb
 Size: 2306908
-MD5sum: 1667c6554431e6b6e5ef6af26bc70123
-SHA1: 414c8470bed7b498d60cf5ebb7228baacad2317f
-SHA256: d621b52c6180ada141b31cdc4389faed1ee8059c0961395a512779ee5f8d9f02
-Section: System
-Description: Cracked Premium by HoangAnh (HAHiOS)
-Tag: role::developer
-Author: Hoang Anh
-Name: Picsart Premium
+MD5sum: 7cc5354b4bd4be6342769d34f0d78c1e
+SHA1: 47c5ddcccc2e7077edde674e2745a8c28e15e6fe
+SHA256: 205bed48450aea710f4d8022406d5e5427da6e671fe957d86eb3430b04c644ce
+Section: Tweaks
+Description: crackedbyhoanganh
+Author: hahios <kevinpham250607@gmail.com>
+Name: PicsArt HAHiOS
+

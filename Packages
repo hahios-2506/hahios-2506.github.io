@@ -1,3 +1,35 @@
+Package: com.hahios.adblockprohahios
+Version: 2506-3
+Architecture: iphoneos-arm64
+Maintainer: hahios <kevinpham250607@gmail.com>
+Installed-Size: 3128
+Depends: mobilesubstrate
+Filename: ./debs/com.hahios.adblockprohahios_2506-3_iphoneos-arm64.deb
+Size: 2305462
+MD5sum: 04ed815467cce8bb2505598f734e5834
+SHA1: c631ac5c3bfd646913634cf726dd6c841039da50
+SHA256: 829577854fcfde6b17c9da7bc0e9ceb22a04752c70db982e3a9b131b7509a9d1
+Section: Tweaks
+Description: crackedbyhoanganh
+Author: hahios <kevinpham250607@gmail.com>
+Name: AdBlock Pro HAHiOS
+
+Package: com.hahios.adguardhahios
+Version: 2506-2
+Architecture: iphoneos-arm64
+Maintainer: hahios <kevinpham250607@gmail.com>
+Installed-Size: 3128
+Depends: mobilesubstrate
+Filename: ./debs/com.hahios.adguardhahios_2506-2_iphoneos-arm64.deb
+Size: 2305064
+MD5sum: a4e761d8d5ee05d41dd3ce18a1e207c5
+SHA1: d947518ed52cadff75d4a3fa6b22ed34e7da4098
+SHA256: 16d40bce4b30eaf084f012c797ba0ebfcdee49f50ca1095b481e48670c31bb59
+Section: Tweaks
+Description: crackedbyhoanganh
+Author: hahios <kevinpham250607@gmail.com>
+Name: AdGuard HAHiOS
+
 Package: com.hahios.picsarthahios
 Version: 2506-1
 Architecture: iphoneos-arm64
